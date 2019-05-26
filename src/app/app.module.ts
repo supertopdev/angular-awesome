@@ -7,7 +7,6 @@ import { GstGetComponent } from './gst-get/gst-get.component';
 import { GstEditComponent } from './gst-edit/gst-edit.component';
 import { HeroesComponent } from './heroes/heroes.component';
 import { FormsModule } from '@angular/forms';
-import { HEROES } from '../mock-heroes';
 
 
 @NgModule({
